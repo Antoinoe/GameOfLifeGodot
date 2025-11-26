@@ -1,4 +1,4 @@
-# Game Of LIfe in Godot
+# Game Of Life in Godot
 ## Technical Informations : 
 - Godot Csharp 4.5.1
 

@@ -2,10 +2,6 @@
 ## Technical Informations : 
 - Godot Csharp 4.5.1
 
-## How to install
-- git clone
-- open project
-
 ## How to use
 - Go to the GOL.tscn
 - Click on TileMapLayer
